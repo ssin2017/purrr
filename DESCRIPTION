@@ -1,6 +1,7 @@
 Package: purrr
 Title: Functional Programming Tools
 Version: 0.2.4.9000
+Date: 2018/09/07
 Authors@R: c(
     person("Lionel", "Henry", , "lionel@rstudio.com", c("aut", "cre")),
     person("Hadley", "Wickham", , "hadley@rstudio.com", "aut"),
